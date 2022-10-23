@@ -1,5 +1,5 @@
 {
-    "name": "awesome-spinner",
+    "name": "awesome-spin",
     "version": "1.0.0",
     "description": "light and safe module",
     "main": "dist/esm/index.js",
@@ -19,7 +19,6 @@
         "type": "git",
         "url": "git+https://github.com/BigBen3918/awesome-spin.git"
     },
-    "private": true,
     "dependencies": {
         "@types/react": "^18.0.21",
         "@types/styled-components": "^5.1.26",
