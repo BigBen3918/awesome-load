@@ -275,7 +275,7 @@ export const CircleSpin = (props: SpinInterface) => {
     const { type, color1, color2, duration, height, width } = props;
 
     return (
-        <>
+        <div>
             {(!type || type === "Spin_1") && (
                 <Spin_1
                     width={width}
@@ -360,6 +360,6 @@ export const CircleSpin = (props: SpinInterface) => {
                     duration={duration}
                 />
             )}
-        </>
+        </div>
     );
 };
