@@ -16,11 +16,11 @@ An animated loading spinner
 ## Installation
 With Yarn:
 ```bash
-yarn add awesome-spin
+yarn add awesome-load
 ```
 With npm:
 ```bash
-npm install --save awesome-spin
+npm install --save awesome-load
 ```
 
 ## Usage
