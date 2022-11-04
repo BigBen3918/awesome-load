@@ -1,4 +1,4 @@
-# awesome-spin
+# awesome-load
 
 An animated loading spinner
 
