@@ -29,7 +29,7 @@ Each spinner has their own default properties. You can overwrite the defaults by
 ## Example
 ```tsx
 import React from "react";
-import { CircleSpin } from 'awesome-spin';
+import { CircleSpin } from 'awesome-load';
 
 function App() {
 	return <CircleSpin type="Spin_1" width="50px" color1="red" color2="blue"  />;
